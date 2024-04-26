@@ -1,1 +1,1 @@
-![image](https://github.com/Rulio974/OSINTboard/bdd.png)
+![image](https://github.com/Rulio974/OSINTboard/blob/main/bdd.png)
